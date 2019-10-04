@@ -2,8 +2,8 @@
 <head>
 </head>
 <body>
-<A href="https://www.google.fr">lien vers google</A>
-<IMG src="My-Hero.jpg>
-<font color="blue">bonjour</font>
+<A href="https://lyc-dumas-ales.ac-montpellier.fr/">lien vers le site du lycée</A>
+<IMG src="aLKjwKg_700b.jpg<
+<font color="red">bonjour</font>
 </body>
 </html>
